@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  name: training-java-mavenwe3bf
+  name: training-java-share
 projects:
   - name: training-java
     source:
