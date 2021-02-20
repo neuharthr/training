@@ -1,2 +1,2 @@
 # training
-Training code.
+Training code for examples and reference.
