@@ -10,9 +10,9 @@ class GravityCalculator {
 
 
         //Compute the position of a falling object:
-        //   x(t) = 0.5 * (at)^2 + v(t) + x
+        //   finalPosition = 0.5 * a * (t * t) + (v * t) + x
         //
-        //  a = acceleration = -9.81 m/s
+        //  a = gravity = -9.81 m/s
         //  t = falling time (in seconds)
         //  v = initial velocity
         //  x = initial position
